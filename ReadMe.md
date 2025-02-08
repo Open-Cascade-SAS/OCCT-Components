@@ -22,8 +22,8 @@ This repository serves as a public preview and documentation hub for commercial 
 * [JTXT Import](./Exchange/JTXT_ImportExport/) - JT with Parasolid content format support
 * [IFC Import](./Exchange/IFC_Import/) - IFC file format support
 * [Parasolid Import](./Exchange/Parasolid_Import/) - Parasolid format import
-* [USD Import-Export](./Exchange/USD_ImportExport/) - Universal Scene Description format support
 * [RVM Import](.Exchange/RVM_Import/) - RVM file exported by AVEVA format support
+* [USD Import-Export](./Exchange/USD_ImportExport/) - Universal Scene Description format support
 
 ### [Language Wrappers](./LanguageWrappers/)
 * [C#](./LanguageWrappers/C#/) - .NET framework integration
@@ -67,6 +67,7 @@ OCCT Components/
 │   ├── JT_ImportExport/
 │   ├── JTXT_ImportExport/
 │   ├── Parasolid_Import/
+│   ├── RVM_Import/
 │   └── USD_ImportExport/
 ├── LanguageWrappers/
 │   ├── C#/
