@@ -11,3 +11,4 @@ Collection of data exchange tools for various CAD file formats.
 - [IFC Import](./IFC_Import/) - IFC file format support tools
 - [Parasolid Import](./Parasolid_Import/) - Parasolid format import capabilities
 - [USD Import-Export](./USD_ImportExport/) - Universal Scene Description format support
+* [RVM Import](./RVM_Import/) - RVM file exported by AVEVA format support
