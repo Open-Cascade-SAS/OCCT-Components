@@ -31,9 +31,12 @@ Note, Full list available on [occt3d.com/components](https://occt3d.com/componen
 * [Surface From Scattered Points](./Processing/SurfaceFromScatteredPoints/) - Surface reconstruction
 * [Express Mesh](./Processing/ExpressMesh/) - Advanced surface meshing
 * [Mesh Framework](./Processing/MeshFramework/) - CAD/CAE mesh support
+* [Mesh Decimation](./Processing/MeshDecimation/) - Mesh reduction and optimization
 
 ### [Visualization](./Visualization/)
 * [Light Web Viewer](./Visualization/LightWebViewer/) - Lightweight WebGL-based viewer
+* [PMI Visualization](./Visualization/PMIVisualization/) - Product Manufacturing Information
+* [Volume Rendering](./Visualization/VolumeRendering/) - Large volumetric data visualization
 
 ## Getting Full Components
 This is a preview repository. For full component access:
