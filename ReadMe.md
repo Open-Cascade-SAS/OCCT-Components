@@ -16,7 +16,6 @@ Note, Full list available on [occt3d.com/components](https://occt3d.com/componen
 * [DXF Import-Export](./Exchange/DXF_ImportExport/) - DXF file format support
 * [ACIS Import-Export](./Exchange/ACIS_ImportExport/) - SAT/SAB file format support
 * [JT Import-Export](./Exchange/JT_ImportExport/) - JT file format support
-* [JTXT Import](./Exchange/JTXT_ImportExport/) - JT with Parasolid content format support
 * [IFC Import](./Exchange/IFC_Import/) - IFC file format support
 * [Parasolid Import](./Exchange/Parasolid_Import/) - Parasolid format import
 * [RVM Import](.Exchange/RVM_Import/) - RVM file exported by AVEVA format support
