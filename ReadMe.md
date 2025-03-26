@@ -26,7 +26,7 @@ This repository serves as a public preview and documentation hub for commercial 
 * [USD Import-Export](./Exchange/USD_ImportExport/) - Universal Scene Description format support
 
 ### [Language Wrappers](./LanguageWrappers/)
-* [C#](./LanguageWrappers/C#/) - .NET framework integration
+* [C#](./LanguageWrappers/CSharp) - .NET framework integration
 * [Java](./LanguageWrappers/Java/) - Java platform support
 
 ### [Modeling SDK](./ModelingSDK/)
