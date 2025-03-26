@@ -4,6 +4,10 @@ This is a preview repository. For full component access:
 2. Select required components
 3. Follow purchase process
 
+## Technical documentation
+
+- [Documentation](./Documentation/parasolid_interface)
+
 ## Contact & Support
 - Website: [occt3d.com](https://occt3d.com)
 
