@@ -6,7 +6,7 @@ This is a preview repository. For full component access:
 
 ## Technical documentation
 
-- [Documentation](./Documentation/jt_interface)
+- [Documentation](./Documentation/jt_interface.md)
 
 ## Contact & Support
 - Website: [occt3d.com](https://occt3d.com)
