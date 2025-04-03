@@ -54,6 +54,10 @@ The Open CASCADE CAM Library is based on the current version of Open CASCADE Tec
 - Requires no other external software
 - Operational mode and possible limitations described in the accompanying documentation
 
+## Technical documentation
+
+- [Documentation](./Documentation/cam_library.md)
+
 ## Getting Full Components
 This is a preview repository. For full component access:
 1. Visit [occt3d.com/components](https://occt3d.com/components/)
